@@ -14,7 +14,7 @@ import SpriteKit
 class ViewController: UIViewController, ARSCNViewDelegate, SCNPhysicsContactDelegate {
    
     
-    //var RewardBasedVideo = GADRewardedAd()
+     //var RewardBasedVideo = GADRewardedAd()
     
     var gameCanStartBool:Bool = false
     var gameRestartBool:Bool = false
@@ -56,6 +56,7 @@ class ViewController: UIViewController, ARSCNViewDelegate, SCNPhysicsContactDele
     
     
     let gameParameter = GameParameter.sharedInstance
+    
     
     @IBOutlet var sceneView: ARSCNView!
     

@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		41256BDC96F7D9A8C1B02B2F /* Pods_AR_Fighter.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B0FCD4918056294D90488B1F /* Pods_AR_Fighter.framework */; };
-		6B0AB2D425D0759900716D6F /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6B0AB2D325D0759900716D6F /* GoogleService-Info.plist */; };
 		6B0AB38125D0908300716D6F /* GoogleMobileAds.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6B0AB38025D0908300716D6F /* GoogleMobileAds.xcframework */; };
 		6B0AB38425D0908800716D6F /* GoogleAppMeasurement.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6B0AB38325D0908800716D6F /* GoogleAppMeasurement.xcframework */; };
 		6B0C60F625C8713300C3FC89 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B0C60F525C8713300C3FC89 /* AppDelegate.swift */; };
@@ -25,7 +24,6 @@
 
 /* Begin PBXFileReference section */
 		25BCAADBA0E4AFAC998AE3D4 /* Pods-AR Fighter.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AR Fighter.debug.xcconfig"; path = "Target Support Files/Pods-AR Fighter/Pods-AR Fighter.debug.xcconfig"; sourceTree = "<group>"; };
-		6B0AB2D325D0759900716D6F /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		6B0AB38025D0908300716D6F /* GoogleMobileAds.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = GoogleMobileAds.xcframework; path = "Pods/Google-Mobile-Ads-SDK/Frameworks/GoogleMobileAdsFramework-Current/GoogleMobileAds.xcframework"; sourceTree = "<group>"; };
 		6B0AB38325D0908800716D6F /* GoogleAppMeasurement.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = GoogleAppMeasurement.xcframework; path = Pods/GoogleAppMeasurement/Frameworks/GoogleAppMeasurement.xcframework; sourceTree = "<group>"; };
 		6B0C60F225C8713300C3FC89 /* AR Fighter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AR Fighter.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -96,7 +94,6 @@
 				6B0C60FE25C8713500C3FC89 /* Assets.xcassets */,
 				6B0C610025C8713500C3FC89 /* LaunchScreen.storyboard */,
 				6B0C610325C8713500C3FC89 /* Info.plist */,
-				6B0AB2D325D0759900716D6F /* GoogleService-Info.plist */,
 				6B71861725CF1C34005635BC /* fire.mp3 */,
 				6B4B5E6025CF04FA007A0B25 /* explosion.mp3 */,
 				6B0C610E25C8837B00C3FC89 /* Classes */,
@@ -184,7 +181,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				6B4B5E6125CF04FA007A0B25 /* explosion.mp3 in Resources */,
-				6B0AB2D425D0759900716D6F /* GoogleService-Info.plist in Resources */,
 				6B0C60F825C8713300C3FC89 /* art.scnassets in Resources */,
 				6B0C610225C8713500C3FC89 /* LaunchScreen.storyboard in Resources */,
 				6B0C60FF25C8713500C3FC89 /* Assets.xcassets in Resources */,
